@@ -1,0 +1,5 @@
+document.getElementById("demo1").innerHTML="Nombre: Hellen Estefania"
+document.getElementById("demo2").innerHTML="Apellido: Ruiz Buitron"
+document.getElementById("demo3").innerHTML="Direccion: calle 9#35-03"
+document.getElementById("demo4").innerHTML="Telefono: 3025255639"
+document.getElementById("demo5").innerHTML="Correo: estefany25rb@gmail.com"

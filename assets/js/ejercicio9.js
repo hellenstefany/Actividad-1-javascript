@@ -1,0 +1,5 @@
+document.getElementById("demo1").innerHTML="Piña"
+document.getElementById("demo2").innerHTML="Durazno"
+document.getElementById("demo3").innerHTML="Fresas"
+document.getElementById("demo4").innerHTML="Uvas"
+document.getElementById("demo5").innerHTML="Sandia"

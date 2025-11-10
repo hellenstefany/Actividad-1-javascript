@@ -1,0 +1,6 @@
+document.getElementById("demo1").innerHTML="Reegueton viejo"
+document.getElementById("demo2").innerHTML="Reegueton actual"
+document.getElementById("demo3").innerHTML="Salsa"
+document.getElementById("demo4").innerHTML="Electronica"
+document.getElementById("demo5").innerHTML="Bachata"
+document.getElementById("demo6").innerHTML="Pop"
